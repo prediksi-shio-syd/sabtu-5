@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-shio-syd.github.io/sabtu-5/sitemap.xml
